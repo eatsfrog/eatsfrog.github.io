@@ -1,0 +1,24 @@
+frog_id,species,sex,habitat,health,weight,size,age,max_hop,thermal_limit,call_freq,arrival_date
+3078,Leopard Frog,Male,Forest,Healthy,811.1,6.44,5,2.89,27.45,479.92,2023-01-01
+3079,Leopard Frog,Male,Pond,Sick,584.5,7.9,6,2.53,29.99,396.86,2023-01-02
+3080,Dart Frog,Male,Forest,Healthy,413.4,5.8,7,2.31,28.08,368.61,2023-01-03
+3081,Tree Frog,Female,Pond,Healthy,724.3,7.88,2,3.41,28.11,349.2,2023-01-04
+3082,Bullfrog,Female,Swamp,Healthy,324.4,4.81,2,2.17,30.74,575.43,2023-01-05
+3083,Dart Frog,Male,Pond,Sick,314.8,3.91,3,2.23,30.59,536.62,2023-01-06
+3084,Dart Frog,Male,Forest,Sick,123.7,2.69,4,1.38,33.57,594.76,2023-01-07
+3085,Leopard Frog,Male,Swamp,Healthy,133.9,2.01,9,1.49,34.55,637.32,2023-01-08
+3086,Leopard Frog,Male,Rainforest,Healthy,290.1,4.42,8,2.4,31.82,584.36,2023-01-09
+3087,Tree Frog,Female,Swamp,Sick,348.4,4.23,6,1.76,31.45,532.6,2023-01-10
+3088,Tree Frog,Female,Swamp,Healthy,517.9,4.66,9,2.76,28.12,425.39,2023-01-11
+3089,Tree Frog,Female,Swamp,Healthy,317.5,3.98,7,1.51,29.57,418.09,2023-01-12
+3090,Dart Frog,Female,Rainforest,Healthy,252.5,4.11,1,1.78,29.19,451.01,2023-01-13
+3091,Dart Frog,Male,Swamp,Healthy,139.6,2.85,2,1.4,33.84,510.36,2023-01-14
+3092,Dart Frog,Female,Rainforest,Sick,748.8,7.31,2,3.42,27.6,496.95,2023-01-15
+3093,Bullfrog,Female,Swamp,Sick,140.2,2.92,9,1.43,33.34,580.81,2023-01-16
+3094,Dart Frog,Female,Rainforest,Healthy,322.4,4.33,1,1.68,29.68,538.76,2023-01-17
+3095,Dart Frog,Female,Forest,Healthy,412.7,5.98,6,2.83,28.64,423.97,2023-01-18
+3096,Leopard Frog,Female,Pond,Healthy,197.4,2.69,2,1.25,34.46,610.04,2023-01-19
+3097,Leopard Frog,Female,Pond,Healthy,147.0,2.13,3,1.08,34.28,603.08,2023-01-20
+3098,Leopard Frog,Female,Swamp,Sick,109.0,2.52,8,1.21,32.59,752.38,2023-01-21
+3099,Dart Frog,Male,Forest,Sick,475.8,4.88,2,2.72,27.2,376.42,2023-01-22
+3100,Tree Frog,Male,Pond,Healthy,350.9,3.48,1,2.41,30.95,419.33,2023-01-23

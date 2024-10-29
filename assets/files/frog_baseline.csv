@@ -1,0 +1,80 @@
+frog_id,species,sex,weight,age,size
+3001,Dart Frog,Male,340.8,5,3.52
+3002,Tree Frog,Female,432.4,7,5.0
+3003,Leopard Frog,Female,434.0,10,5.49
+3004,Tree Frog,Female,124.9,7,2.19
+3005,Bullfrog,Male,406.8,10,5.92
+3006,Tree Frog,Male,412.4,8,5.65
+3007,Tree Frog,Male,857.4,7,5.87
+3008,Leopard Frog,Female,133.8,6,2.92
+3009,Leopard Frog,Female,265.4,6,4.53
+3010,Bullfrog,Female,878.0,6,6.39
+3011,Bullfrog,Male,196.0,10,2.52
+3012,Dart Frog,Female,227.1,10,4.83
+3013,Tree Frog,Female,986.7,3,6.91
+3014,Bullfrog,Male,528.3,9,5.32
+3015,Leopard Frog,Male,563.6,6,4.67
+3016,Bullfrog,Male,836.3,4,5.99
+3017,Bullfrog,Male,158.4,8,2.55
+3018,Leopard Frog,Female,155.9,3,2.74
+3019,Bullfrog,Female,669.5,7,5.68
+3020,Bullfrog,Male,507.4,2,4.49
+3021,Dart Frog,Female,110.3,3,2.72
+3022,Dart Frog,Male,569.3,8,4.4
+3023,Leopard Frog,Male,832.7,1,5.15
+3024,Bullfrog,Male,352.3,1,4.67
+3025,Leopard Frog,Female,558.0,3,5.9
+3026,Dart Frog,Female,234.2,3,4.91
+3027,Dart Frog,Male,126.5,1,2.16
+3028,Leopard Frog,Female,206.1,2,4.96
+3029,Bullfrog,Female,936.1,9,7.66
+3030,Leopard Frog,Male,318.4,2,3.22
+3031,Bullfrog,Female,186.3,9,2.61
+3032,Bullfrog,Male,864.5,2,5.51
+3033,Dart Frog,Male,582.3,6,4.16
+3034,Bullfrog,Female,917.8,2,7.48
+3035,Tree Frog,Female,246.6,5,4.95
+3036,Tree Frog,Female,559.2,6,5.29
+3037,Leopard Frog,Male,525.7,10,4.44
+3038,Dart Frog,Male,999.0,8,6.07
+3039,Dart Frog,Female,392.4,6,3.72
+3040,Leopard Frog,Female,699.6,10,6.95
+3041,Bullfrog,Male,532.1,7,4.38
+3042,Dart Frog,Female,545.1,7,4.54
+3043,Leopard Frog,Male,126.1,8,2.76
+3044,Leopard Frog,Female,208.6,1,4.62
+3045,Dart Frog,Male,139.4,4,2.82
+3046,Tree Frog,Female,723.2,10,7.51
+3047,Dart Frog,Male,503.3,1,5.54
+3048,Tree Frog,Female,983.7,4,7.92
+3049,Tree Frog,Female,260.9,8,3.68
+3050,Dart Frog,Male,160.3,10,2.31
+3051,Leopard Frog,Female,727.1,6,7.68
+3052,Dart Frog,Female,282.7,2,4.92
+3053,Dart Frog,Female,633.1,7,7.19
+3054,Dart Frog,Female,412.3,5,5.79
+3055,Bullfrog,Female,435.8,4,4.02
+3056,Leopard Frog,Female,235.5,7,3.86
+3057,Bullfrog,Male,219.2,5,3.88
+3058,Tree Frog,Male,169.1,4,2.22
+3059,Tree Frog,Male,440.3,6,5.22
+3060,Bullfrog,Male,234.7,3,4.67
+3061,Leopard Frog,Male,482.7,5,4.44
+3062,Leopard Frog,Male,140.5,7,2.8
+3063,Tree Frog,Female,566.1,7,4.5
+3064,Tree Frog,Male,295.3,3,4.47
+3065,Leopard Frog,Male,199.0,4,2.91
+3066,Leopard Frog,Female,338.7,9,3.92
+3067,Tree Frog,Male,527.4,8,5.16
+3068,Bullfrog,Female,132.1,9,2.83
+3069,Dart Frog,Male,185.3,9,2.36
+3070,Dart Frog,Female,516.2,6,5.46
+3071,Bullfrog,Female,139.5,8,2.75
+3072,Leopard Frog,Male,462.6,9,4.08
+3073,Leopard Frog,Male,211.3,9,3.11
+3074,Bullfrog,Female,131.3,7,2.57
+3075,Tree Frog,Female,174.9,4,2.47
+3076,Bullfrog,Female,370.8,2,3.58
+3077,Bullfrog,Female,897.9,5,7.34
+3077,Bullfrog,Female,897.9,5,7.34
+3200,,Male,,5,10.0

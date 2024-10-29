@@ -1,0 +1,101 @@
+frog_id,species,sex,habitat,health,weight,size,age,max_hop,thermal_limit,call_freq
+3001,Dart Frog,Male,Pond,Healthy,340.8,3.52,5,1.66,31.15,455.5
+3002,Tree Frog,Female,Pond,Healthy,432.4,5.0,7,2.55,27.86,369.87
+3003,Leopard Frog,Female,Swamp,Healthy,434.0,5.49,10,2.86,27.59,413.24
+3004,Tree Frog,Female,Pond,Healthy,124.9,2.19,7,1.48,31.67,779.69
+3005,Bullfrog,Male,Forest,Sick,406.8,5.92,10,2.44,27.36,400.61
+3006,Tree Frog,Male,Pond,Healthy,412.4,5.65,8,2.97,28.82,416.48
+3007,Tree Frog,Male,Swamp,Healthy,857.4,5.87,7,3.48,29.91,360.45
+3008,Leopard Frog,Female,Swamp,Healthy,133.8,2.92,6,1.08,33.8,505.36
+3009,Leopard Frog,Female,Forest,Healthy,265.4,4.53,6,2.11,28.33,507.81
+3010,Bullfrog,Female,Swamp,Healthy,878.0,6.39,6,3.45,28.07,416.89
+3011,Bullfrog,Male,Swamp,Healthy,196.0,2.52,10,1.43,30.86,638.92
+3012,Dart Frog,Female,Swamp,Healthy,227.1,4.83,10,1.65,28.07,517.34
+3013,Tree Frog,Female,Forest,Sick,986.7,6.91,3,2.5,25.85,470.85
+3014,Bullfrog,Male,Swamp,Sick,528.3,5.32,9,2.32,28.54,449.12
+3015,Leopard Frog,Male,Swamp,Healthy,563.6,4.67,6,2.72,28.45,379.26
+3016,Bullfrog,Male,Rainforest,Sick,836.3,5.99,4,3.3,27.15,480.98
+3017,Bullfrog,Male,Rainforest,Sick,158.4,2.55,8,1.4,32.91,597.95
+3018,Leopard Frog,Female,Forest,Healthy,155.9,2.74,3,1.24,31.31,787.37
+3019,Bullfrog,Female,Swamp,Sick,669.5,5.68,7,2.69,27.07,484.33
+3020,Bullfrog,Male,Forest,Healthy,507.4,4.49,2,2.83,28.12,408.02
+3021,Dart Frog,Female,Rainforest,Sick,110.3,2.72,3,1.49,34.77,503.23
+3022,Dart Frog,Male,Pond,Sick,569.3,4.4,8,2.96,27.63,351.42
+3023,Leopard Frog,Male,Forest,Healthy,832.7,5.15,1,2.74,29.51,487.45
+3024,Bullfrog,Male,Forest,Healthy,352.3,4.67,1,1.87,29.98,416.28
+3025,Leopard Frog,Female,Forest,Healthy,558.0,5.9,3,2.87,29.7,396.24
+3026,Dart Frog,Female,Forest,Healthy,234.2,4.91,3,2.47,30.08,556.26
+3027,Dart Frog,Male,Pond,Sick,126.5,2.16,1,1.49,30.57,690.68
+3028,Leopard Frog,Female,Forest,Sick,206.1,4.96,2,2.34,30.2,592.51
+3029,Bullfrog,Female,Swamp,Healthy,936.1,7.66,9,3.39,29.52,325.31
+3030,Leopard Frog,Male,Pond,Healthy,318.4,3.22,2,1.99,30.36,559.98
+3031,Bullfrog,Female,Swamp,Healthy,186.3,2.61,9,1.09,34.25,523.76
+3032,Bullfrog,Male,Swamp,Healthy,864.5,5.51,2,3.24,26.94,313.01
+3033,Dart Frog,Male,Swamp,Healthy,582.3,4.16,6,2.42,28.89,422.43
+3034,Bullfrog,Female,Swamp,Healthy,917.8,7.48,2,3.3,29.19,410.46
+3035,Tree Frog,Female,Rainforest,Sick,246.6,4.95,5,1.92,29.29,537.79
+3036,Tree Frog,Female,Forest,Healthy,559.2,5.29,6,2.81,28.55,444.89
+3037,Leopard Frog,Male,Swamp,Healthy,525.7,4.44,10,2.42,28.76,403.62
+3038,Dart Frog,Male,Forest,Healthy,999.0,6.07,8,2.81,28.29,391.07
+3039,Dart Frog,Female,Rainforest,Healthy,392.4,3.72,6,1.89,30.26,512.26
+3040,Leopard Frog,Female,Forest,Injured,699.6,6.95,10,2.82,26.17,435.47
+3041,Bullfrog,Male,Forest,Injured,532.1,4.38,7,2.92,27.55,366.06
+3042,Dart Frog,Female,Rainforest,Healthy,545.1,4.54,7,2.5,28.85,415.62
+3043,Leopard Frog,Male,Forest,Healthy,126.1,2.76,8,1.34,32.41,633.51
+3044,Leopard Frog,Female,Forest,Healthy,208.6,4.62,1,2.47,28.74,576.94
+3045,Dart Frog,Male,Rainforest,Healthy,139.4,2.82,4,1.48,30.13,546.02
+3046,Tree Frog,Female,Rainforest,Healthy,723.2,7.51,10,3.41,28.46,417.09
+3047,Dart Frog,Male,Rainforest,Healthy,503.3,5.54,1,2.13,27.81,420.13
+3048,Tree Frog,Female,Forest,Healthy,983.7,7.92,4,2.69,29.6,439.32
+3049,Tree Frog,Female,Rainforest,Healthy,260.9,3.68,8,1.96,31.29,519.07
+3050,Dart Frog,Male,Pond,Healthy,160.3,2.31,10,1.46,32.89,768.15
+3051,Leopard Frog,Female,Pond,Sick,727.1,7.68,6,3.15,28.57,406.99
+3052,Dart Frog,Female,Swamp,Healthy,282.7,4.92,2,1.83,31.27,434.97
+3053,Dart Frog,Female,Rainforest,Healthy,633.1,7.19,7,3.16,25.33,342.93
+3054,Dart Frog,Female,Swamp,Healthy,412.3,5.79,5,2.76,28.3,436.0
+3055,Bullfrog,Female,Rainforest,Injured,435.8,4.02,4,2.44,28.03,351.59
+3056,Leopard Frog,Female,Pond,Healthy,235.5,3.86,7,2.47,31.56,528.29
+3057,Bullfrog,Male,Pond,Healthy,219.2,3.88,5,1.53,31.61,540.11
+3058,Tree Frog,Male,Pond,Healthy,169.1,2.22,4,1.1,32.33,742.83
+3059,Tree Frog,Male,Rainforest,Healthy,440.3,5.22,6,2.96,28.58,423.43
+3060,Bullfrog,Male,Rainforest,Healthy,234.7,4.67,3,1.6,28.28,586.81
+3061,Leopard Frog,Male,Pond,Healthy,482.7,4.44,5,2.35,27.84,399.14
+3062,Leopard Frog,Male,Forest,Healthy,140.5,2.8,7,1.36,32.45,552.83
+3063,Tree Frog,Female,Pond,Healthy,566.1,4.5,7,2.76,27.83,441.37
+3064,Tree Frog,Male,Forest,Healthy,295.3,4.47,3,1.55,28.16,432.98
+3065,Leopard Frog,Male,Swamp,Healthy,199.0,2.91,4,1.2,34.12,532.72
+3066,Leopard Frog,Female,Pond,Sick,338.7,3.92,9,1.69,29.36,579.53
+3067,Tree Frog,Male,Swamp,Healthy,527.4,5.16,8,2.61,28.18,354.5
+3068,Bullfrog,Female,Rainforest,Healthy,132.1,2.83,9,1.23,31.48,622.38
+3069,Dart Frog,Male,Rainforest,Healthy,185.3,2.36,9,1.08,33.17,545.73
+3070,Dart Frog,Female,Swamp,Healthy,516.2,5.46,6,3.27,26.77,409.64
+3071,Bullfrog,Female,Swamp,Healthy,139.5,2.75,8,1.41,33.73,749.96
+3072,Leopard Frog,Male,Rainforest,Healthy,462.6,4.08,9,2.36,28.48,447.41
+3073,Leopard Frog,Male,Swamp,Healthy,211.3,3.11,9,2.37,31.02,592.89
+3074,Bullfrog,Female,Pond,Healthy,131.3,2.57,7,1.05,33.42,742.46
+3075,Tree Frog,Female,Forest,Healthy,174.9,2.47,4,1.14,32.08,596.91
+3076,Bullfrog,Female,Forest,Healthy,370.8,3.58,2,1.77,28.96,544.76
+3077,Bullfrog,Female,Swamp,Healthy,897.9,7.34,5,3.14,28.31,356.9
+3078,Leopard Frog,Male,Forest,Healthy,811.1,6.44,5,2.89,27.45,479.92
+3079,Leopard Frog,Male,Pond,Sick,584.5,7.9,6,2.53,29.99,396.86
+3080,Dart Frog,Male,Forest,Healthy,413.4,5.8,7,2.31,28.08,368.61
+3081,Tree Frog,Female,Pond,Healthy,724.3,7.88,2,3.41,28.11,349.2
+3082,Bullfrog,Female,Swamp,Healthy,324.4,4.81,2,2.17,30.74,575.43
+3083,Dart Frog,Male,Pond,Sick,314.8,3.91,3,2.23,30.59,536.62
+3084,Dart Frog,Male,Forest,Sick,123.7,2.69,4,1.38,33.57,594.76
+3085,Leopard Frog,Male,Swamp,Healthy,133.9,2.01,9,1.49,34.55,637.32
+3086,Leopard Frog,Male,Rainforest,Healthy,290.1,4.42,8,2.4,31.82,584.36
+3087,Tree Frog,Female,Swamp,Sick,348.4,4.23,6,1.76,31.45,532.6
+3088,Tree Frog,Female,Swamp,Healthy,517.9,4.66,9,2.76,28.12,425.39
+3089,Tree Frog,Female,Swamp,Healthy,317.5,3.98,7,1.51,29.57,418.09
+3090,Dart Frog,Female,Rainforest,Healthy,252.5,4.11,1,1.78,29.19,451.01
+3091,Dart Frog,Male,Swamp,Healthy,139.6,2.85,2,1.4,33.84,510.36
+3092,Dart Frog,Female,Rainforest,Sick,748.8,7.31,2,3.42,27.6,496.95
+3093,Bullfrog,Female,Swamp,Sick,140.2,2.92,9,1.43,33.34,580.81
+3094,Dart Frog,Female,Rainforest,Healthy,322.4,4.33,1,1.68,29.68,538.76
+3095,Dart Frog,Female,Forest,Healthy,412.7,5.98,6,2.83,28.64,423.97
+3096,Leopard Frog,Female,Pond,Healthy,197.4,2.69,2,1.25,34.46,610.04
+3097,Leopard Frog,Female,Pond,Healthy,147.0,2.13,3,1.08,34.28,603.08
+3098,Leopard Frog,Female,Swamp,Sick,109.0,2.52,8,1.21,32.59,752.38
+3099,Dart Frog,Male,Forest,Sick,475.8,4.88,2,2.72,27.2,376.42
+3100,Tree Frog,Male,Pond,Healthy,350.9,3.48,1,2.41,30.95,419.33
