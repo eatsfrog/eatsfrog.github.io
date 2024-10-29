@@ -323,7 +323,10 @@ Now it's your turn to take the plunge! What datasets will you merge? What insigh
 
 **Until next time, keep your data clean and your algorithms green!**
 
-## Further Reading / Resources
+
+---
+
+### Further Reading / Resources
 
 - GeeksforGeeks: ["Different Types of Joins in Pandas"](https://www.geeksforgeeks.org/different-types-of-joins-in-pandas/)
 
