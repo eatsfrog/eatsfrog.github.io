@@ -111,7 +111,7 @@ New arrivals data shape: (23, 12)
 2          28.08     368.61   2023-01-03
 ```
 
-Our new arrivals dataset contains information on 23 new frogs, with 12 attributes for each. This dataset combines all the information from our baseline and updated baseline, plus an additional 'arrival_date' column.
+Our new arrivals dataset contains information on 23 new frogs, with 12 attributes for each. This dataset combines all the information from our baseline and updated baseline, plus an additional `arrival_date` column.
 
 Now that we have a rough picture of our data, let's jump into merging!
 
@@ -198,7 +198,7 @@ We caught a Bullfrog trying to make a double splash! After removing duplicates, 
 
 #### Mismatched Columns
 
-Because arrival date is only present in the new arrivals, but not the baseline dataset, pandas will display a lot of NaN values. Since we don't really care about arrival date for our analysis, we can remove that column.
+Because arrival date is only present in the new arrivals but not in the baseline data, pandas will display a lot of NaN values. Since we don't really need arrival date for our analysis, we can drop that column.
 
 ```python
 # Drop arrival_date column
@@ -219,7 +219,7 @@ Output:
 2          27.86     369.87
 ```
 
-Without the arrival_date column, our dataset is looking even sharper!
+Without the arrival date column filled with NaN values, our dataset is looking even sharper!
 
 #### Missing data
 
@@ -250,12 +250,12 @@ There are many ways to deal with missing values, and the best option often depen
 final_df.dropna(inplace=True)
 ```
 
-There are other ways to handle missing data, which you can learn more about [here](https://towardsdatascience.com/8-methods-for-handling-missing-values-with-python-pandas-842544cdf891).
+**Note**: There are other ways to handle missing data, which you can learn more about [here](https://towardsdatascience.com/8-methods-for-handling-missing-values-with-python-pandas-842544cdf891).
 
 
 #### A Note on Proactive Error Handling
 
-Usually, it's best practice to fix these data errors from the beginning. We could have used similar techniques as we did previously, but before merging or concatenating the DataFrames. For example:
+Usually, it's best practice to handle these data errors before merging. We could have used similar techniques as we did previously, but automating the process. For example:
 
 ```python
 def clean_dataframe(df):
@@ -323,6 +323,11 @@ Now it's your turn to take the plunge! What datasets will you merge? What insigh
 
 **Until next time, keep your data clean and your algorithms green!**
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
