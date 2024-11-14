@@ -133,7 +133,6 @@ print(merged_df.shape)
 print(merged_df.head(3))
 ```
 
-Output:
 ```
 (81, 11)
 
@@ -156,7 +155,6 @@ print(final_df.shape)
 print(final_df.head(3))
 ```
 
-Output:
 ```
 (104, 12)
 
@@ -184,7 +182,6 @@ print(final_df[final_df.duplicated(keep=False)])
 final_df.drop_duplicates(keep='first', inplace=True)
 ```
 
-Output:
 ```
     frog_id   species     sex  weight  age  size habitat   health  max_hop  \
 77     3077  Bullfrog  Female   897.9  5.0  7.34   Swamp  Healthy     3.14   
@@ -206,7 +203,6 @@ final_df.drop('arrival_date', axis=1, inplace=True)
 print(final_df.head(3))
 ```
 
-Output:
 ```
    frog_id    species     sex  weight  age  size habitat   health  max_hop  \
 0        0        NaN     NaN     NaN  NaN   NaN     NaN      NaN     0.00   
@@ -230,7 +226,6 @@ The last step is to look for missing values. Let's see what rows have missing va
 print(final_df[final_df.isna().any(axis=1)])
 ```
 
-Output:
 ```
     frog_id species   sex  weight  age  size habitat   health  max_hop  \
 0         0     NaN   NaN     NaN  NaN   NaN     NaN      NaN      0.0   
@@ -290,7 +285,7 @@ Let's see our final dataset:
 print("Final data shape:", final_df.shape)
 print(final_df.head(3))
 ```
-Output:
+
 ```
 Final data shape: (100, 11)
    frog_id       species     sex habitat   health  weight  size   age  \
