@@ -2,9 +2,9 @@
 layout: post
 title: "The GSS Voyage: Exploring Social Depths"
 subtitle: A data-driven exploration of the GSS (General Social Survey) data that reveals demographic trends, living condition differences, and fascinating population facts.
-cover-img: /assets/img/american-flag.jpg
+cover-img: /assets/img/american-flag.png
 thumbnail-img: /assets/img/flag-thumb.jpg
-share-img: /assets/img/american-flag.jpg
+share-img: /assets/img/american-flag.png
 tags: [gss, Data Analysis, python]
 author: Ian Roman Villanueva
 ---

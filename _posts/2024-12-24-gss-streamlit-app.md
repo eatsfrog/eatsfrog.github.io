@@ -2,9 +2,9 @@
 layout: post
 title: "Leaping into the GSS Age Pool: Exploring the GSS Data with Streamlit"
 subtitle: Explore age distribution trends in the General Social Survey dataset, highlighting demographic shifts over time and introducing an interactive Streamlit app that allows users to visualize and analyze these patterns across various factors.
-cover-img: /assets/img/glass-map.jpg
-thumbnail-img: /assets/img/streamlit-logo.png
-share-img: /assets/img/glass-map.jpg
+cover-img: /assets/img/map-glass.png
+thumbnail-img: /assets/img/streamlit-thumb.png
+share-img: /assets/img/map-glass.png
 tags: [gss, Data Analysis, python, streamlit]
 author: Ian Roman Villanueva
 ---
@@ -15,7 +15,7 @@ author: Ian Roman Villanueva
 
 One of the most striking discoveries in our analysis was the bimodal age distribution in American society for 2022 (shown below). Rather than following a normal bell curve, the age distribution reveals two distinct peaks - one around 32 years and another near 60 years.
 
-![Age Distribution](/assets/img/age_dist_adjusted.png)
+![Age Distribution](/assets/img/age-dist-adjusted.png)
 
 The younger peak represents millennials and younger Gen X individuals, while the older peak captures baby boomers. This demographic structure helps explain many conflicting tensions in social dynamics, from housing market pressures to political polarization.
 
@@ -32,7 +32,7 @@ We can observe that:
 
 Additionally, marital status data reveals an even more complex picture:
 
-![Marital Status Distribution](/assets/img/marital-status.png)
+![Marital Status Distribution](/assets/img/marit-dist.png)
 
 Despite high numbers of two-person households, marital status data shows significant diversity, with large populations of divorced and never-married individuals. This disconnect between household size and marital status suggests a shift away from traditional living arrangements, possibly reflecting changing social norms and economic realities.
 
