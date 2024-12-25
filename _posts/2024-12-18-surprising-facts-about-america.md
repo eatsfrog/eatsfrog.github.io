@@ -5,7 +5,7 @@ subtitle: A data-driven exploration of the GSS (General Social Survey) data that
 cover-img: /assets/img/american-flag.jpg
 thumbnail-img: /assets/img/flag-thumb.jpg
 share-img: /assets/img/american-flag.jpg
-tags: [gss, Data Analysis, python,]
+tags: [gss, Data Analysis, python]
 author: Ian Roman Villanueva
 ---
 
@@ -57,9 +57,9 @@ As we can see, most households are composed of adults almost exclusively, with r
 
 ### Marital Status
 
-Let's take a look at the marital status of the respondents to verify our hypothesis (that most respondents live as couples).
+Let's take a look at the marital status of the respondents in 2-person households to verify our hypothesis (that most respondents live as couples).
 
-![Marital Status Distribution](/assets/img/marit-dist.png)
+![Marital Status Distribution](/assets/img/marit-dist_size2.png)
 
 Huh? Quite the plot twist! Although married status is the most common, we have a large number of responses indicating that the person was divorced or never married. You might come up with an explanation for this, such as: "these people are cohabiting with their partner without being married". But remember: numbers speak louder than words! You can continue exploring this dataset and making your own conclusions by using my repository.
 
